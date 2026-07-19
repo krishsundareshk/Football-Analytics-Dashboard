@@ -2,8 +2,7 @@
 
 ## 1. Vision
 
-A post-match and transfer-window analytics platform for Manchester United, built to demonstrate
-end-to-end data analytics and product-thinking skills for a football-industry data role. The
+A post-match and transfer-window analytics platform for Manchester United. The
 platform combines **on-pitch performance analysis** with **recruitment/scouting decision support**,
 centered on a **Transfer Window Intelligence** module that turns squad data into keep/sell/buy
 recommendations rather than just presenting raw stats.
